@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5416172493193526343}
   - component: {fileID: 5471796752148853848}
   - component: {fileID: 2677192948107523242}
+  - component: {fileID: -8930663629417859086}
   m_Layer: 0
   m_Name: BluePrefab
   m_TagString: Untagged
@@ -105,3 +106,15 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-8930663629417859086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6049816214373128564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 718258d91c250e94baa67e9482c84485, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
